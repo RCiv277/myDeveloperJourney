@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RCiv277/myDeveloperJourney/issues"
   },
-  "homepage": "https://github.com/RCiv277/myDeveloperJourney#readme"
+  "homepage": "https://github.com/RCiv277/myDeveloperJourney#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
